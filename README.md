@@ -23,7 +23,7 @@ The project was led in alignment with PMI’s PMBOK® Guide and represents a ful
 
 | File | Description |
 |------|-------------|
-| `01_Project_Charter.docx` | High-level authorization document including objectives, risks, and success criteria |
+| `01_Project_Charter.docx` | High-level authorisation document including objectives, risks, and success criteria |
 | `02_Stakeholder_Register.xlsx` | Stakeholder roles, influence level, and engagement strategy |
 | `03_RACI_Matrix.xlsx` | Clear role definitions across the project work packages |
 | `04_Risk_Register.xlsx` | Identified risks, likelihood, impact, response strategy |
